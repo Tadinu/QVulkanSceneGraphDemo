@@ -1,0 +1,14 @@
+VulkanSceneGraphTexture
+Makefile
+.qmake.stash
+*.pro.user
+*.o
+*.moc
+*.moc.json
+moc_*
+*.orig
+qrc_*
+*.qmltypes
+*_metatypes.json
+*_metatypes.cpp
+*_qmltyperegistrations.cpp
